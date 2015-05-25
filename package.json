@@ -32,12 +32,7 @@
     "email": "roninliu@foxmail.com",
     "url": "https://github.com/roninliu"
   },
-  "license": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/roninliu/gulp-jszip/blob/master/LICENSE"
-    }
-  ],
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/roninliu/gulp-jszip/issues"
   },
